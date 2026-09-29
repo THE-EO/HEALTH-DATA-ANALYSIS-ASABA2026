@@ -1,10 +1,10 @@
 Variable,Description,Data Type,Unit,Role
-participant_id,Anonymous identifier assigned to each participant,Categorical/Text,—,Identifier
+participant_id,Anonymous identifier assigned to each participant,Categorical/Text,â€”,Identifier
 age,Age of participant at screening,Numerical,Years,Descriptive/Predictor
-sex,Recorded sex of participant,Categorical,—,Demographic
+sex,Recorded sex of participant,Categorical,â€”,Demographic
 test_type,Indicates whether fasting or random blood glucose was measured,Categorical,FBS/RBS,Measurement
 systolic_bp,Systolic blood pressure measurement,Numerical,mmHg,Health outcome
 diastolic_bp,Diastolic blood pressure measurement,Numerical,mmHg,Health outcome
 glucose,Blood glucose measurement,Numerical,mg/dL or mmol/L,Health outcome
-location,Location where screening was performed,Categorical,—,Grouping variable
+location,Location where screening was performed,Categorical,â€”,Grouping variable
 date,Date of screening,Date,DD/MM/YYYY,Temporal variable
