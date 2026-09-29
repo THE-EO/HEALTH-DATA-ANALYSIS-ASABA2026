@@ -1,4 +1,4 @@
-Variable,Description,Data Type,Unit,Role
+﻿Variable,Description,Data Type,Unit,Role
 participant_id,Anonymous identifier assigned to each participant,Categorical/Text,—,Identifier
 age,Age of participant at screening,Numerical,Years,Descriptive/Predictor
 sex,Recorded sex of participant,Categorical,—,Demographic
