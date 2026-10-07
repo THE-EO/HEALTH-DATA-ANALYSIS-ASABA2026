@@ -67,7 +67,7 @@ The variables include participant characteristics, screening measurements, scree
 | S/N              | Sequential identifier for each record  |
 | Age              | Participant age as originally recorded |
 | Sex              | Participant sex                        |
-| FBS/RBS (mg/dL)  | Random blood glucose measurement       |
+| FBS/RBS (mg/dL)  | Fasting/Random blood glucose measurement       |
 | Systolic (mmHg)  | Systolic blood pressure measurement    |
 | Diastolic (mmHg) | Diastolic blood pressure measurement   |
 | Date             | Date of screening                      |
